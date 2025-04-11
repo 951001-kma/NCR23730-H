@@ -1,0 +1,29 @@
+name: CI Pipeline
+on: [pull_request, push]  # Se ejecuta en PRs y pushes
+
+jobs:
+  lint:
+    name: Lint / Code Style
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install  # Instala dependencias (ejemplo para Node.js)
+      - run: npm run lint  # Ejecuta linter (ESLint, Prettier, etc.)
+
+  test:
+    name: Tests / Unit
+    runs-on: ubuntu-latest
+    needs: lint  # Depende del job 'lint'
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install
+      - run: npm test  # Ejecuta pruebas unitarias
+
+  build:
+    name: Build / Compile
+    runs-on: ubuntu-latest
+    needs: test  # Depende del job 'test'
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install
+      - run: npm run build  # Compila el proyecto (ej: webpack, tsc)

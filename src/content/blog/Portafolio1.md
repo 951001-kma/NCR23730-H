@@ -19,8 +19,6 @@ Profesional técnico especializado en automatización industrial. He adquirido c
 
 ## Detalles
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=951001-kma&show_icons=true&theme=radical)
-![Repositorios](https://badgen.net/github/repos/951001-kma)
-![Estrellas](https://badgen.net/github/stars/951001-kma?icon=github)
 ![Contribuciones](https://img.shields.io/github/commit-activity/y/951001-kma/tu-repo?label=Commits)
 
 ## Lenguajes Más Usados

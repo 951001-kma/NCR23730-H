@@ -6,7 +6,7 @@ pubDate: 2025-04-03
 url: "https://951001-kma.github.io/Portafolio"
 ---
 
-<img src="https://github.com/951001-kma/Portafolio/blob/main/public/img/photo-perfil.png" width="300" alt="Perfil"/>
+<img src="https://raw.githubusercontent.com/951001-kma/Portafolio/main/public/img/photo-perfil.png" width="300" style="border-radius: 10px;" alt="Foto de perfil"/>
 
 # Kevin Oscar Mamani Arredondo
 ## Estudiante de ingeniería de Sistemas e Informática

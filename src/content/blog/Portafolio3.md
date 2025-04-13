@@ -14,7 +14,7 @@ width="300"  style="border-radius: 10px; display: block; margin: 0 auto;" alt="F
   <h2>Estudiante Universitario de Ingenieria de Sistemas</h2>
 </div>
 
-Motivado por aprender nuevos conocimientos, deseo convertirme en un gran programador para diseño de sistemas logisticos y web. Mejoro dia a dia mis habilidades técnicas. Soy una persona responsable, proactiva y con muchas ganas de superarme. Actualmente trabajo en una empresa que va de la mano con tecnologia de vanguardia donde demuestro mi compromiso, creatividad y capacidad de trabajo en equipo. 
+Motivado por aprender nuevos conocimientos, deseo convertirme en un gran programador para diseño de sistemas logisticos y web. Mejoro dia a dia mis habilidades técnicas. Soy una persona responsable, proactiva y con muchas ganas de superarme. Actualmente trabajo en una empresa que va de la mano con tecnologia de vanguardia donde demuestro mi compromiso, creatividad y capacidad de trabajo en equipo... 
 Apasionado desarrollador web y diseñador gráfico con experiencia en la creación de sitios web modernos y atractivos. Mi objetivo es combinar la creatividad y la funcionalidad para construir soluciones digitales impactantes. Me encanta aprender y mejorar mis habilidades constantemente para ofrecer lo mejor en cada proyecto.
 
 # 📊 KPIs
